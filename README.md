@@ -42,8 +42,8 @@ INSERT INTO `blog` VALUES ('5', 'test 4', 'test 4');
 ### 点击JFinal web framework会跳转到JFinal官网首页
 ![](https://github.com/wang911205/jfinal_demo/blob/master/1.png)
 
-### 点击Blog管理或者点击此处
+### 点击上图中Blog管理或者点击此处会进入下图页面：
 ![](https://github.com/wang911205/jfinal_demo/blob/master/2.png)
 
-### 点击修改
+### 点击上图的修改会进入下图页面：
 ![](https://github.com/wang911205/jfinal_demo/blob/master/3.png)
