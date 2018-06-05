@@ -37,4 +37,13 @@ INSERT INTO `blog` VALUES ('3', 'test 2', 'test 2');
 INSERT INTO `blog` VALUES ('4', 'test 3', 'test 3');
 INSERT INTO `blog` VALUES ('5', 'test 4', 'test 4');
 ```
+## 运行后的结果展示
 
+### 点击JFinal web framework会跳转到JFinal官网首页
+![](https://github.com/wang911205/jfinal_demo/blob/master/1.png)
+
+### 点击Blog管理或者点击此处
+![](https://github.com/wang911205/jfinal_demo/blob/master/2.png)
+
+### 点击修改
+![](https://github.com/wang911205/jfinal_demo/blob/master/3.png)
