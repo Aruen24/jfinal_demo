@@ -9,7 +9,7 @@
 3: 将项目导入 eclipse。推荐使用 Eclipse IDE for Java EE Developers
 
 4: 打开 com.demo.common包下的 DemoConfig 文件，右键单击该文件并选择 Debug As ---> Java Application。
-        其它启动项目的方式见 [《JFinal手册》](http://www.jfinal.com/doc)。除此之外，项目还可以与其它普通java web 项目一样使用 tomcat
+        其它启动项目的方式见 [JFinal手册](http://www.jfinal.com/doc)。除此之外，项目还可以与其它普通java web 项目一样使用 tomcat
    jetty 等 web server 来启动，启动方式与非jfinal项目完全一样。
 
 5: 打开浏览器输入  localhost：83 即可查看运行效果
